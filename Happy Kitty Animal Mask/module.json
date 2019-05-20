@@ -1,5 +1,13 @@
+    
 {
     "disableAutoUpdate": false,
     "name": "Happy Kitty Animal Mask",
-    "description": "Description goes here."
-}
+    "description": "Turns the Rogue Half Mask into a Cute Pink and white cat Mouthie."
+    "author": "TSwift",
+	"options": {
+		"guiName": "Accessory: Happy Kitty Animal Mask",
+		"niceName": "Happy Kitty Animal Mask"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/Happy%20Kitty%20Animal%20Mask/"
+	]
