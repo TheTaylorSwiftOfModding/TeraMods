@@ -1,5 +1,13 @@
 {
     "disableAutoUpdate": false,
-    "name": "Blacker Bow",
-    "description": "Description goes here."
+    "name": "Bear Animal Mask",
+    "description": "Turns the Black Bow into a darker blacker bow"
+    "author": "TSwift",
+	"options": {
+		"guiName": "Accessory: Blacker Bow",
+		"niceName": "Blacker Bow"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/Blacker%20Bow/"
+	]
 }
