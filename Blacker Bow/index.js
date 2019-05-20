@@ -1,3 +1,3 @@
-module.exports = function Blacker Bow(mod) {
+module.exports = function Blacker_Bow(mod) {
     mod.installGPK("Acc_298.gpk");
 }
