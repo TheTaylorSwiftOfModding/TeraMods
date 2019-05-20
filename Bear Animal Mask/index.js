@@ -1,3 +1,3 @@
-module.exports = function Bear Animal Mask(mod) {
+module.exports = function Bear_Animal_Mask(mod) {
     mod.installGPK("Acc_388.gpk");
 }
