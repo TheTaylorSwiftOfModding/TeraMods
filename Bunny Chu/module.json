@@ -1,5 +1,13 @@
 {
     "disableAutoUpdate": false,
     "name": "Bunny Chu",
-    "description": "Description goes here."
+    "description": "Turns the blue bunny mount into a pikachu theme."
+    "author": "TSwift",
+	"options": {
+		"guiName": "Mount Mod: Bunny Chu",
+		"niceName": "Bunny Chu"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/Bunny%20Chu/"
+	]
 }
