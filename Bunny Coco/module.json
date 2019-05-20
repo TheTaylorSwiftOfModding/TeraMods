@@ -1,5 +1,13 @@
 {
     "disableAutoUpdate": false,
     "name": "Bunny Coco",
-    "description": "Description goes here."
+    "description": "Turns Cocomin pet into a white bunny with a pink outfit."
+    "author": "TSwift",
+	"options": {
+		"guiName": "Pet: Bunny Coco",
+		"niceName": "Bunny Coco"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/Bunny%20Coco/"
+	]
 }
