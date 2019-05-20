@@ -1,8 +1,8 @@
 {
 	"disableAutoUpdate": false,
 	"name": "Bunny Coco",
-	"category": "client"
-	"description": "Turns Cocomin pet into a white bunny with a pink outfit."
+	"category": "client",
+	"description": "Turns Cocomin pet into a white bunny with a pink outfit.",
 	"author": "TSwift",
 	"options": {
 		"guiName": "Pet: Bunny Coco",
