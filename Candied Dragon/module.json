@@ -1,9 +1,9 @@
 {
-    "disableAutoUpdate": false,
-    "name": "Candied Dragon",
+	"disableAutoUpdate": false,
+	"name": "Candied Dragon",
 	"category": "client",
-    "description": "Turns the Iron Dragon into a pink dragon with white armour.",
-    "author": "TSwift",
+	"description": "Turns the Iron Dragon into a pink dragon with white armour.",
+	"author": "TSwift",
 	"options": {
 		"guiName": "Mount: Candied Dragon",
 		"niceName": "Candied Dragon"
