@@ -1,3 +1,3 @@
-module.exports = function Pikachu Raincoat(mod) {
+module.exports = function Pikachu_Raincoat(mod) {
     mod.installGPK("PC_Event_42A.gpk");
 }
