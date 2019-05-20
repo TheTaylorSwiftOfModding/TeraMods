@@ -1,8 +1,9 @@
 {
-    "disableAutoUpdate": false,
-    "name": "I can haz backpack",
-    "description": "Turns the kitty backpack into a peach sack with a white cat."
-    "author": "TSwift",
+	"disableAutoUpdate": false,
+	"name": "I can haz backpack",
+	"category": "client",
+	"description": "Turns the kitty backpack into a peach sack with a white cat.",
+	"author": "TSwift",
 	"options": {
 		"guiName": "Accessory: I can haz backpack",
 		"niceName": "I can haz backpack"
