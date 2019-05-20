@@ -1,8 +1,9 @@
 {
-    "disableAutoUpdate": false,
-    "name": "Pikachu Raincoat",
-    "description": "Turns your Elin Raincoat into a pikachu theme coat!."
-    "author": "TSwift",
+	"disableAutoUpdate": false,
+	"name": "Pikachu Raincoat",
+	"category": "client",
+	"description": "Turns your Elin Raincoat into a pikachu theme coat!.",
+	"author": "TSwift",
 	"options": {
 		"guiName": "Costume: Pikachu Raincoat",
 		"niceName": "Pikachu Raincoat"
