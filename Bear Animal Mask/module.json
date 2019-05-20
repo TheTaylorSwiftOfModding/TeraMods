@@ -1,8 +1,8 @@
 {
     "disableAutoUpdate": false,
     "name": "Bear Animal Mask",
-    "description": "Description goes here."
-    "author": "Panty",
+    "description": "Turns the Rogue Half Mask into a Cute Black and white bear Mouthie."
+    "author": "Angel",
 	"options": {
 		"guiName": "Accessory: Bear Animal Mask",
 		"niceName": "Bear Animal Mask"
