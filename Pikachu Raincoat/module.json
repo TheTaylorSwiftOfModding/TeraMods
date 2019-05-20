@@ -1,5 +1,13 @@
 {
     "disableAutoUpdate": false,
     "name": "Pikachu Raincoat",
-    "description": "Description goes here."
+    "description": "Turns your Elin Raincoat into a pikachu theme coat!."
+    "author": "TSwift",
+	"options": {
+		"guiName": "Costume: Pikachu Raincoat",
+		"niceName": "Pikachu Raincoat"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/Pikachu%20Raincoat/"
+	]
 }
