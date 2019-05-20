@@ -1,5 +1,13 @@
 {
     "disableAutoUpdate": false,
     "name": "Candied Dragon",
-    "description": "Description goes here."
+    "description": "Turns the Iron Dragon into a pink dragon with white armour."
+    "author": "TSwift",
+	"options": {
+		"guiName": "Mount: Candied Dragon",
+		"niceName": "Candied Dragon"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/Candied%20Dragon/"
+	]
 }
