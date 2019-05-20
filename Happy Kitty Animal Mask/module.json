@@ -1,8 +1,9 @@
-    {
-    "disableAutoUpdate": false,
-    "name": "Happy Kitty Animal Mask",
-    "description": "Turns the Rogue Half Mask into a Cute Pink and white cat Mouthie."
-    "author": "TSwift",
+{
+	"disableAutoUpdate": false,
+	"name": "Happy Kitty Animal Mask",
+	"category": "client"
+	"description": "Turns the Rogue Half Mask into a Cute Pink and white cat Mouthie.",
+	"author": "TSwift",
 	"options": {
 		"guiName": "Accessory: Happy Kitty Animal Mask",
 		"niceName": "Happy Kitty Animal Mask"
