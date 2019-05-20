@@ -1,3 +1,3 @@
-module.exports = function Bunny Coco(mod) {
+module.exports = function Bunny_Coco(mod) {
     mod.installGPK("Partner_C_CoCo_Event00.gpk");
 }
