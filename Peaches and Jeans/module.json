@@ -1,8 +1,9 @@
 {
-    "disableAutoUpdate": false,
-    "name": "Peaches and Jeans",
-    "description": "Turns your Elin Series 3 maid costume into a cute Peach dress with jean accents!."
-    "author": "TSwift",
+	"disableAutoUpdate": false,
+	"name": "Peaches and Jeans",
+	"category": "client",
+	"description": "Turns your Elin Series 3 maid costume into a cute Peach dress with jean accents!.",
+	"author": "TSwift",
 	"options": {
 		"guiName": "Costume: Peaches and jeans",
 		"niceName": "Peaches and Jeans"
