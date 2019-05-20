@@ -1,5 +1,13 @@
 {
     "disableAutoUpdate": false,
     "name": "I can haz backpack",
-    "description": "Description goes here."
+    "description": "Turns the kitty backpack into a peach sack with a white cat."
+    "author": "TSwift",
+	"options": {
+		"guiName": "Accessory: I can haz backpack",
+		"niceName": "I can haz backpack"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/I%20can%20haz%20backpack/"
+	]
 }
