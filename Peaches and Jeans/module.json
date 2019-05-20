@@ -1,5 +1,13 @@
 {
     "disableAutoUpdate": false,
     "name": "Peaches and Jeans",
-    "description": "Description goes here."
+    "description": "Turns your Elin Series 3 maid costume into a cute Peach dress with jean accents!."
+    "author": "TSwift",
+	"options": {
+		"guiName": "Costume: Peaches and jeans",
+		"niceName": "Peaches and Jeans"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/Peaches%20and%20Jeans/"
+	]
 }
