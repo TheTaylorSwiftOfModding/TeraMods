@@ -1,5 +1,13 @@
 {
     "disableAutoUpdate": false,
     "name": "Hanbok Bubblegum Princess",
-    "description": "Description goes here."
+    "description": "Turns the red hanbok costume (Elins) into a Cute sleeveless pink and white dress."
+    "author": "TSwift",
+	"options": {
+		"guiName": "Costume: Hanbok Bubblegum Princess",
+		"niceName": "Hanbok Bubblegum Princess"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/TheTaylorSwiftOfModding/TeraMods/master/Hanbok%20Bubblegum%20Princess/"
+	]
 }
