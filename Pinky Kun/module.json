@@ -1,8 +1,9 @@
 {
-    "disableAutoUpdate": false,
-    "name": "Pinky Kun",
-    "description": "Turns your KunKun pet into a white bunny with a white and pink outfit!."
-    "author": "TSwift",
+	"disableAutoUpdate": false,
+	"name": "Pinky Kun",
+	"category": "client",
+	"description": "Turns your KunKun pet into a white bunny with a white and pink outfit!.",
+	"author": "TSwift",
 	"options": {
 		"guiName": "Pet: Pinky Kun",
 		"niceName": "Pinky Kun"
