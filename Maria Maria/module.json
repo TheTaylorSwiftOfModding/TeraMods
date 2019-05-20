@@ -1,8 +1,9 @@
 {
-    "disableAutoUpdate": false,
-    "name": "Maria Maria",
-    "description": "Turns the Marie pet into a brown haird girl with pink and white fit."
-    "author": "TSwift",
+	"disableAutoUpdate": false,
+	"name": "Maria Maria",
+	"category": "client",
+	"description": "Turns the Marie pet into a brown haird girl with pink and white fit.",
+	"author": "TSwift",
 	"options": {
 		"guiName": "Pet: Maria Maria",
 		"niceName": "Maria Maria"
